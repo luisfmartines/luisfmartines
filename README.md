@@ -5,20 +5,7 @@
 Me chamo Luis Felipe Dias Matta Martines, tenho 17 anos e sou natural de São Paulo. Concluí o ensino médio técnico em informática e também o curso técnico em informática no Senac. Sou apaixonado por criar interfaces bonitas, rápidas e acessíveis, e trabalho com desenvolvimento full stack, com foco no front-end. Estou sempre estudando e construindo novos projetos para evoluir na carreira.
 
 <p align="left">
-    <a href="https://github.com/SEU_USUARIO?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/luisfmartines?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/luisfmartines?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/luisfmartines?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+    <a href="https://github.com/luisfmartines?tab=repositories&sort=stargazers">
     <a href="https://www.linkedin.com/in/luismartines/">
         <img 
             alt="LinkedIn" 
@@ -100,3 +87,19 @@ Me chamo Luis Felipe Dias Matta Martines, tenho 17 anos e sou natural de São Pa
 
 <br/>
 <br/>
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=luisfmartines&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=luisfmartines&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+  />
